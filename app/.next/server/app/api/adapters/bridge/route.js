@@ -1,0 +1,11 @@
+var R=require("../../../../chunks/[turbopack]_runtime.js")("server/app/api/adapters/bridge/route.js")
+R.c("server/chunks/[externals]__17ygwunakt5p9._.js")
+R.c("server/chunks/_0mji01k_wyr-k._.js")
+R.c("server/chunks/lib_field-mapper_ts_13sjju0kzr6oc._.js")
+R.c("server/chunks/[root-of-the-server]__0jj2mezkzp1n5._.js")
+R.c("server/chunks/[root-of-the-server]__1v1-l-83czzsr._.js")
+R.c("server/chunks/lib_server-state-store_ts_1kmjcjczaso25._.js")
+R.c("server/chunks/_16eiqaciysqt1._.js")
+R.c("server/chunks/_next-internal_server_app_api_adapters_bridge_route_actions_0g2e7ytc014f0.js")
+R.m(97383)
+module.exports=R.m(97383).exports

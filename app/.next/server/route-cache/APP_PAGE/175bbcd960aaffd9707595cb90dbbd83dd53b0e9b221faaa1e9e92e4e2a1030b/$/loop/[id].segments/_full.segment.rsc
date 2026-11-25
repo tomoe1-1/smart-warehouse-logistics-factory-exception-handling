@@ -1,0 +1,41 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:"/_next/static/chunks/1_wlzxoiuciop.js"
+4:"/_next/static/chunks/06miwz847oe05.js"
+5:"/_next/static/chunks/2_cebv401orz6.js"
+6:I[28739,["$3","$4","$5"],"Providers"]
+7:I[39756,["$3","$4","$5"],"default"]
+8:I[37457,["$3","$4","$5"],"default"]
+e:I[47257,["$3","$4","$5"],"ClientPageRoot"]
+f:"/_next/static/chunks/02r_b8hjb-hx8.js"
+10:"/_next/static/chunks/1ylv8lq7g9x9r.js"
+11:I[86758,["$3","$4","$5","$f","$10"],"default"]
+12:I[97367,["$3","$4","$5"],"OutletBoundary"]
+14:"ViewportBoundary"
+15:I[97367,["$3","$4","$5"],"$14"]
+17:"MetadataBoundary"
+18:I[97367,["$3","$4","$5"],"$17"]
+1b:I[68027,["$3","$4","$5"],"default",1]
+:HL["/_next/static/chunks/37s9_csu0l6rb.css","style"]
+:HC["/",""]
+9:X
+b:X
+d:[["children",{"s":"__PAGE__","h":514,"d":{"r":["$","$1","c",{"children":[["$","$Le",null,{"Component":"$11","serverProvidedParams":null}],[["$","script","script-0",{"src":"/_next/static/chunks/02r_b8hjb-hx8.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/1ylv8lq7g9x9r.js","async":true,"nonce":"$undefined"}]],["$","$L12",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":true,"v":"$b"}}]]
+c:[["children",{"s":{"n":"id","t":"d","k":"%%drp:id:c1f26d35943798%%","s":[]},"h":514,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":true,"v":"$b"},"c":"$Qd"}]]
+a:[["children",{"s":"loop","h":514,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":true,"v":"$b"},"c":"$Qc"}]]
+1a:X
+1c:X
+1d:X
+0:{"P":null,"c":["","loop","[id]"],"q":"","i":false,"t":{"t":{"s":"","h":530,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/37s9_csu0l6rb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1_wlzxoiuciop.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/06miwz847oe05.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/2_cebv401orz6.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"dark h-full antialiased","children":["$","body",null,{"className":"min-h-full","children":["$","$2",null,{"fallback":["$","p",null,{"className":"px-6 py-6 text-sm text-muted-foreground","children":"正在读取本机演示数据…"}],"children":["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}],"p":true,"v":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$2",null,{"name":"Next.Metadata","children":"$L19"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":true,"v":"$1a"}},"m":"$undefined","G":["$1b",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/37s9_csu0l6rb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$1c","s":"$1d","a":"$@1e","l":"$undefined","p":"$undefined","d":"$undefined","b":"_lnNZAZxEmdpxTsvIm2RA","u":"$@1f"}
+b:C
+1d:300
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+20:I[27201,["$3","$4","$5"],"IconMark"]
+13:null
+19:[["$","title","0",{"children":"异常调度软件层"}],["$","meta","1",{"name":"description","content":"挂接现有 WMS 与 MES 的仓储异常调度闭环。发现、初判、调度、追踪、关闭、沉淀。"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","3",{"rel":"icon","href":"/icon.svg?icon.3ogqyke30i0ka.svg","sizes":"any","type":"image/svg+xml"}],["$","$L20","4",{}]]
+1d:C
+1a:C
+1c:C
+9:C
+1f:false
+1e:null

@@ -1,0 +1,10 @@
+var R=require("../../../../chunks/[turbopack]_runtime.js")("server/app/api/site-config/test/route.js")
+R.c("server/chunks/[externals]__1_d0ozgspyf7o._.js")
+R.c("server/chunks/_0mji01k_wyr-k._.js")
+R.c("server/chunks/lib_field-mapper_ts_13sjju0kzr6oc._.js")
+R.c("server/chunks/[root-of-the-server]__1v1-l-83czzsr._.js")
+R.c("server/chunks/[root-of-the-server]__0jj2mezkzp1n5._.js")
+R.c("server/chunks/_16g3j1lowr6t_._.js")
+R.c("server/chunks/_next-internal_server_app_api_site-config_test_route_actions_1870ylsmuac6_.js")
+R.m(11176)
+module.exports=R.m(11176).exports

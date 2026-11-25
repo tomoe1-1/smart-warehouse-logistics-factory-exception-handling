@@ -1,0 +1,16 @@
+{
+  "app": {
+    "[project]/app/_not-found/page": [],
+    "[project]/app/adapters/page": [],
+    "[project]/app/assistant/page": [],
+    "[project]/app/loop/[id]/page": [],
+    "[project]/app/loop/page": [],
+    "[project]/app/page": [],
+    "[project]/app/rules/page": [],
+    "[project]/app/setup/page": [],
+    "[project]/app/skills/page": []
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}
